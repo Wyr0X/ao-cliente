@@ -703,16 +703,16 @@ StaRequerido=0
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 [HECHIZO48]
-Nombre=Granize cel
-Desc=Fuego artificial.
-PalabrasMagicas=
-HechizeroMsg=Has lanzado un fuego artificial sobre 
-TargetMsg=te ha lanzado un fuego artificial.
-PropioMsg=Te has lanzado un fuego artificial.
-SubeHP=1
-MinSkill=101
-ManaRequerido=0
-StaRequerido=5
+Nombre=Aguantiaa
+Desc=�ste es uno de los m�s elementales y sencillos hechizos de ataque que podr�s aprender. No causa un gran da�o a la v�ctima, pero al consumir muy pocos recursos, resulta una herramienta muy �til para el entrenamiento de los j�venes hechiceros.
+PalabrasMagicas=ɐıʇuɐnbɐ
+Nombre=Aguantia - (Dardo M�gico)
+MinSkill=6
+StaRequerido=1
+ManaRequerido=10
+PropioMsg=
+TargetMsg=ha lanzado un aguantia sobre ti.
+HechizeroMsg=Has lanzado un aguantiaa sobre
 
 
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
