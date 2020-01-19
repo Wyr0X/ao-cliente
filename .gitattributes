@@ -33,10 +33,3 @@
 /GRAFICOS/Fonts/font1.dat -text
 /GRAFICOS/Fonts/font2.dat -text
 /GRAFICOS/Fonts/font3.dat -text
-
-# Declare encoding of all files for code.
-*.bas encoding=ansi
-*.cls encoding=ansi
-*.vbp encoding=ansi
-*.frm encoding=ansi
-*.json encoding=ansi

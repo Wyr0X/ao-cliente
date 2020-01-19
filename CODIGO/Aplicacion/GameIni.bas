@@ -9,6 +9,8 @@ Attribute VB_Name = "Game"
 
 'ñAñáaáñáa´ña´sdáda´´d!!¡¡¡¡
 
+'TEST´´´+ç´ççc+¡¡¡¡¡ñÑÑññè`rñerñrñe+eêë
+
 Option Explicit
 
 Public Type tCabecera
