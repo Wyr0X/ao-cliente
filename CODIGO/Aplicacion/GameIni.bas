@@ -5,6 +5,8 @@ Attribute VB_Name = "Game"
 '   Nueva carga de configuracion mediante .INI
 ' ***********************************************
 
+'Яяаимсз
+
 Option Explicit
 
 Public Type tCabecera
