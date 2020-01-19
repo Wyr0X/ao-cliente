@@ -35,8 +35,8 @@
 /GRAFICOS/Fonts/font3.dat -text
 
 # Declare encoding of all files for code.
-*.bas working-tree-encoding=windows-1252
-*.cls working-tree-encoding=windows-1252
-*.vbp working-tree-encoding=windows-1252
-*.frm working-tree-encoding=windows-1252
-*.json working-tree-encoding=windows-1252
+*.bas encoding=ansi
+*.cls encoding=ansi
+*.vbp encoding=ansi
+*.frm encoding=ansi
+*.json encoding=ansi
